@@ -33,4 +33,7 @@ Here are some of the snippets of the overview that stuck out to me, how I interp
 
 ## Deployment:
 
-- I chose to deploy the application using AWS Amplify for a fast DX and to simulate how I could quickly set up a CI/CD approach to deploy from my Github repo (in this case, however, I chose not to, as I'd have to set up a parallel GH repo tied to my own account).
+- I chose to deploy the application using Netflify for the sake of cost saving - while I'd typically deploy a full stack or front-end app to AWS via a CI/CD pipeline (using either CodePipeline, Amplify, or Elastic Beanstalk w/ Github Actions), part of development is looking to save money!
+
+Check out the deployed version of the app here:
+https://6546905030cd2a3a54448dc6--famous-sunflower-45f666.netlify.app/
